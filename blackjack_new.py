@@ -18,7 +18,7 @@ totalgames = 0
 winbank = 0
 winplayer = 0
 
-money = 10000
+money = 10000 #the amount of money you start with
 betrag = 0
 
 #pics a card from the deck (gezogen) and makes sure no card piced more than once
