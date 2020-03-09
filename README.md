@@ -9,3 +9,7 @@ whitout "double" and without "split"
 also the ace always counts as 11, only if you get 2 Ace, the one of them counts as 1.
 
 Anyway hope you still have fun :D
+
+EDIT!:
+  with blackjack_new.py a bidding system is added! ;)
+  you can chage the amount you start with by changing money in line ... default is 10000€
