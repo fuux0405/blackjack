@@ -15,3 +15,6 @@ EDIT!:
 with blackjack_new.py a bidding system is added! ;)
 
 You can chage the amount you start with by changing money in line 21 ... default is 10000€
+
+NOTE: 
+For propper execution you need python 3.5.3 ;D
